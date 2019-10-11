@@ -1,5 +1,6 @@
 .py[cod]
-*.jsonl
+#*.jsonl
 __pycache__/
 data/
 annotated/
+.ipynb_checkpoints/

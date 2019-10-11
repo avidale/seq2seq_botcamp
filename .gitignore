@@ -1,0 +1,5 @@
+.py[cod]
+#*.jsonl
+__pycache__/
+annotated/
+.ipynb_checkpoints/
